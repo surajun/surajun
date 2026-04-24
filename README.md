@@ -20,9 +20,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Resume Analyzer]([https://github.com/surajun/resume-analyzer](https://github.com/surajun/Ai-Resume-Analyzer)) | AI-powered ATS score + skill gap analyzer | React, Node, PostgreSQL, GPT-4o |
-| [AI Course Builder]([https://github.com/surajun/ai-course-builder](https://github.com/surajun/ai-course-builder)) | Auto-generates courses using Google AI + YouTube API | React, Node, Google AI |
-| [DeepFake Detector]([https://github.com/surajun/deepfake-detector](https://github.com/surajun/Deepfakeimage)) | CNN model to detect AI-generated images (80K+ dataset) | Python, TensorFlow, Keras |
+| [Resume Analyzer](https://github.com/surajun/Ai-Resume-Analyzer) | AI-powered ATS score + skill gap analyzer | React, Node, PostgreSQL, GPT-4o |
+| [AI Course Builder](https://github.com/surajun/ai-course-builder)) | Auto-generates courses using Google AI + YouTube API | React, Node, Google AI |
+| [DeepFake Detector](https://github.com/surajun/Deepfakeimage)) | CNN model to detect AI-generated images (80K+ dataset) | Python, TensorFlow, Keras |
 
 ---
 
@@ -40,5 +40,5 @@
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suraj-kumar-649890218/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suraj-kumar-649890218/)
 [![Email](https://img.shields.io/badge/Email-surajsolanki8847@gmail.com-red)](mailto:surajsolanki8847@gmail.com)
