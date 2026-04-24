@@ -21,8 +21,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Resume Analyzer](https://github.com/surajun/Ai-Resume-Analyzer) | AI-powered ATS score + skill gap analyzer | React, Node, PostgreSQL, GPT-4o |
-| [AI Course Builder](https://github.com/surajun/ai-course-builder)) | Auto-generates courses using Google AI + YouTube API | React, Node, Google AI |
-| [DeepFake Detector](https://github.com/surajun/Deepfakeimage)) | CNN model to detect AI-generated images (80K+ dataset) | Python, TensorFlow, Keras |
+| [AI Course Builder](https://github.com/surajun/ai-course-builder) | Auto-generates courses using Google AI + YouTube API | React, Node, Google AI |
+| [DeepFake Detector](https://github.com/surajun/Deepfakeimage) | CNN model to detect AI-generated images (80K+ dataset) | Python, TensorFlow, Keras |
 
 ---
 
