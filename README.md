@@ -1,6 +1,3 @@
-Here is the updated README code with all your provided links inserted into the correct spots!
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Suraj%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Java%20•%20Spring%20Boot%20•%20React%20•%20AI%20Integrations&descAlignY=55&descSize=20"/>
 
@@ -139,4 +136,3 @@ Here is the updated README code with all your provided links inserted into the c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajun&theme=rogue&hide_border=true&bg_color=0D1117" width="100%"/>
   <p><i>"Engineering Secure, AI-Integrated Solutions — One Commit at a Time."</i></p>
 </div>
-```
