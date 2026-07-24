@@ -1,3 +1,6 @@
+Here is the updated README code with all your provided links inserted into the correct spots!
+
+```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Suraj%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Java%20•%20Spring%20Boot%20•%20React%20•%20AI%20Integrations&descAlignY=55&descSize=20"/>
 
@@ -24,7 +27,7 @@
         <li>🎯 <strong>Focus:</strong> Full-Stack Development, AI Integration, Secure Systems</li>
         <li>🎓 <strong>Education:</strong> B.E. CSE (Cyber Security) @ RNS Institute of Technology | CGPA: <strong>8.38/10</strong></li>
         <li>💼 <strong>Status:</strong> Open to Work (SDE / Full-Stack Developer / Java Backend)</li>
-        <li>🌐 <strong>Profiles:</strong> <a href="https://surajkumar-portfolio.vercel.app/">Portfolio</a> | <a href="https://leetcode.com/surajun">LeetCode</a></li>
+        <li>🌐 <strong>Profiles:</strong> <a href="https://surajun.github.io/">Portfolio</a> | <a href="https://leetcode.com/u/suraj_11kumar/">LeetCode</a></li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -74,13 +77,13 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ **[EvalSecure – Intelligent Assessment Monitoring Platform](https://github.com/surajun)**
+### 🛡️ **[EvalSecure – Intelligent Assessment Monitoring Platform](https://github.com/surajun/EvalSecure-Intelligent-Assessment-Monitoring-Platform)**
 > *Secure backend assessment platform with role-based access control protecting exam integrity.*
 - **Tech Stack:** React.js, Spring Boot, PostgreSQL, JWT, BCrypt, RBAC
 - Built real-time suspicious-activity monitoring and automated evaluation to remove manual grading.
 - Documented the full REST API design with Swagger, adding structured validation/exception handling.
 
-### 🤖 **[Local RAG Chatbot](https://github.com/surajun)**
+### 🤖 **[Local RAG Chatbot](https://github.com/surajun/RAG-Chatbot)**
 > *Retrieval-Augmented Generation (RAG) chatbot for offline, multi-PDF document question answering.*
 - **Tech Stack:** Python, LangChain, Ollama (Llama 3.2), ChromaDB, Streamlit
 - Engineered an ingestion pipeline with PyPDFLoader and Nomic Embed Text model for semantic search.
@@ -136,3 +139,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajun&theme=rogue&hide_border=true&bg_color=0D1117" width="100%"/>
   <p><i>"Engineering Secure, AI-Integrated Solutions — One Commit at a Time."</i></p>
 </div>
+```
