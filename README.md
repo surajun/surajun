@@ -57,6 +57,8 @@
 <img src="https://img.shields.io/badge/AI_&_ML-LangChain_%7C_Ollama_%7C_ChromaDB_%7C_TensorFlow_%7C_OpenRouter_AI-00C9FF?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Architecture-REST_APIs_%7C_JWT_Auth_%7C_Microservices_%7C_RBAC_%7C_CI/CD-6A5ACD?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Messaging_&_DevOps-Apache_Kafka_%7C_Spring_Security_%7C_Docker_Compose-FF6F00?style=for-the-badge"/>
 
 <br>
 
@@ -91,6 +93,14 @@
 - **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, OpenRouter AI (GPT-4o-mini)
 - Integrated GPT-4o-mini API for scoring; secured backend with JWT and BCrypt.
 - Shipped a real-time React dashboard reporting match scores, skill tags, and AI-generated insights.
+
+### 💳 **[PayFlow – Event-Driven Payment Processing System](https://github.com/surajun/-payflow-event-driven-payments)**
+> *Microservices-based payment platform decoupling payment processing from notifications via async Kafka events.*
+- **Tech Stack:** Java 21, Spring Boot, Kafka, PostgreSQL, Spring Security, Docker
+- Split payment and notification workflows into two independent services connected via REST APIs and async events.
+- Implemented secure processing with Spring Security, Bean Validation, and Spring Data JPA, covering the full status lifecycle with centralized exception handling.
+- Built a Kafka event pipeline (`PaymentCreatedEvent`) with async consumption and duplicate-event prevention.
+- Containerized PostgreSQL and Kafka with Docker Compose, added Spring Boot Actuator health checks, and covered it with JUnit + Mockito tests.
 
 <br>
 
